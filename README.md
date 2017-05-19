@@ -30,3 +30,8 @@ should be used in conjunction of the Android client.
 6. Requested user info parameter will be processed, parsed and user will be shown the success message
 7. The Message will contain the MSISDN and PCR.
 
+
+Result
+
+![Alt text](pocusingmobnw.png?raw=true "From Mobile Network")
+![Alt text](pocusingwifi.png?raw=true "From WiFi Network")
